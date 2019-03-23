@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>dailycrosswordweb</module>
+        <module>dailycrosswordmodel</module>
+        <module>dailycrosswordlogic</module>
+        <module>dailycrossworddbaccessor</module>
     </modules>
 
     <properties>
